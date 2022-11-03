@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>complete webpage</title>
+    <style>
+        .container{
+            border: 5px solid #9fde0e;;
+            background-color: rgb(4 3 27);
+            margin: auto;
+            padding: 50px;
+            width: 615px ;
+            /* float:right; */
+           
+        }
+        #abc{
+            color: aliceblue; 
+        }
+        #abcd{
+            color: rgba(162, 103, 217, 0.584);
+        }
+        body{
+            background-color: #8a387f;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        }
+
+
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h3 id="abc">This is My First Webpage</h3>
+        <p id="abcd">Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque laboriosam suscipit delectus sapiente ratione. Perspiciatis incidunt placeat quam aliquid. Ducimus!</p>
+
+    </div>
+    
+</body>
+</html>
